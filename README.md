@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hola!! 👋
 
 <!--
 **captain-Arvoy/captain-Arvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. I am currently on voyage to save the world 😁😁😁😁!
-2. I like to program, Program loves me, I can't stop programming 😁😁😉!
+2. I like to program
+3. Program loves me
+4. I can't stop programming 😁😁😉!
