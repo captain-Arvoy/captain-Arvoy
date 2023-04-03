@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 1. I am currently on voyage to save the world 😁😁😁😁!
+2. I like to program, Program loves me, I can't stop programming 😁😁😉!
