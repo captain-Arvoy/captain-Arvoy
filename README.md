@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 3. I like to program
 4. Program loves me
 5. I can't stop programming 😁😁😉!
-6. Follow me to save the @world
-7. star my Repos to save the @world
+6. I made apps that don't work
+7. I write programs that gives errors
+8. I have made websites with terrific UI elements.
+9. Follow me to save the @world
+10. star my Repos to save the @world
 # #save_world
