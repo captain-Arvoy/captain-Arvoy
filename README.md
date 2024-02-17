@@ -1,4 +1,4 @@
-## Hola everiUvaan, I am kaptaan Harboy (check the URL for the spelling he...)!! 👋
+## yo, mesa Captain Arvoy!! 👋
 
 <!--
 **captain-Arvoy/captain-Arvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
